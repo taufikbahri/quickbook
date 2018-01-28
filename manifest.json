@@ -1,29 +1,15 @@
 {
-    "short_name": "BetaPage",
-    "name": "BetaPage",
-    "theme_color": "#4A90E2",
-    "background_color": "#F7F8F9",
-    "display": "standalone",
+    "short_name": "QuickBook",
+    "name": "QuickBook by trendpot",
     "icons": [
     {
-        "src": "assets/icons/launcher-icon-1x.png",
-        "type": "image/png",
-        "sizes": "48x48"
-    },
-    {
-        "src": "assets/icons/launcher-icon-2x.png",
-        "type": "image/png",
-        "sizes": "96x96"
-    },
-    {
-        "src": "assets/icons/launcher-icon-3x.png",
-        "type": "image/png",
-        "sizes": "144x144"
-    },
-    {
-        "src": "assets/icons/launcher-icon-4x.png",
-        "type": "image/png",
-        "sizes": "192x192"
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
     }],
-    "start_url": "/?utm_source=launcher"
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
 }
