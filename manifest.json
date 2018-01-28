@@ -27,7 +27,7 @@
         "sizes": "512x512",
         "type": "image/png"
     }],
-    "start_url": "/?homescreen=1",
+    "start_url": "?homescreen=1",
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
