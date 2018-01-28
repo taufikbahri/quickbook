@@ -5,6 +5,7 @@ self.addEventListener('install', function(e) {
             return cache.addAll([
                 '/',
                 '/index.html',
+                '/index.html?homescreen=1',
                 '/css/bootstrap.min.css',
                 '/css/font-awesome.min.css',
                 '/css/main.css',
