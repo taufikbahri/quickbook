@@ -15,7 +15,7 @@ importScripts('cache-polyfill.js');
 //         })
 //     );
 // });
-
+var cacheName = 'quickbook';
 
 self.addEventListener('install', (event) => {
     console.info('Event: Install');
