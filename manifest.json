@@ -1,6 +1,6 @@
 {
     "short_name": "QuickBook",
-    "name": "QuickBook by trendpot",
+    "name": "QuickBook",
     "icons": [
     {
         "src": "launcher-icon-1x.png",
@@ -29,8 +29,8 @@
     }],
     "start_url": "index.html?homescreen=1",
     "display": "standalone",
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#394462",
+    "background_color": "#394462",
     "display": "standalone",
     "orientation": "portrait"
 }
